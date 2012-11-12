@@ -10,7 +10,7 @@ fi
 
 local INSTALL_TYPE=${1:-"CLIENT"} # CLIENT/SERVER
 
-local CDN_BASE="http://c2521002.r2.cf0.rackcdn.com"
+local CDN_BASE="http://4ad0a2808a2c43e9d0d6-330deec3c994fad5a61c9255051a5d28.r28.cf1.rackcdn.com"
 local CLIENT_TARBALL="chef-client-0.10.8-rhel5.x86_64.tar.gz"
 local SERVER_TARBALL="chef-server-0.10.8-rhel5-x86_64.tar.gz"
 local BOOTSTRAP="chef-0.10.8-solo-bootstrap.tar.gz"
